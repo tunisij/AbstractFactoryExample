@@ -1,0 +1,9 @@
+package com.tunisij.button;
+
+public class Word10Button implements IButton{
+
+	@Override
+	public void doButton() {
+		System.out.println("Button Word10");
+	}
+}
